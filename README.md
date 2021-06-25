@@ -1,2 +1,2 @@
-# quickstart-github-actions
-Quickstart for GitHub Actions 
+# Quickstart for GitHub Actions  
+Try out the features of GitHub Actions in 5 minutes or less.
